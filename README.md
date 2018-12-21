@@ -45,6 +45,8 @@
 - [Full stack react app from scratch — Part 1](https://hackernoon.com/full-stack-react-app-from-scratch-part-1-9086cacc59ac)
 - [React app from scratch](https://hackernoon.com/react-app-from-scratch-d694300d1631)
 - [Learn React - Full Course for Beginners](https://www.freecodecamp.org/news/beaucarnes/learn-react-course--jiLKNpplm)
+- [Start Learning React](https://egghead.io/courses/start-learning-react)
+- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ## App Tutorials/Mini-Projects
 
