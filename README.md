@@ -4,7 +4,6 @@
 
 - [What is REST](https://restfulapi.net/)
 - [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
--
 - [Creating a RESTful API using Node.js](https://itnext.io/creating-a-restful-api-using-node-js-256c22c47e0b)
 - [Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 - [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
