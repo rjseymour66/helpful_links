@@ -55,8 +55,7 @@
 - [Node.js & WebSocket — Simple chat tutorial](https://medium.com/@martin.sikora/node-js-websocket-simple-chat-tutorial-2def3a841b61)
 
 ## Event Handlers
-- ~~[How to handle event handling in JavaScript (examples and all)](https://medium.freecodecamp.org/event-handling-in-javascript-with-examples-f6bc1e2fff57)~~S
-- [JavaScript HTML DOM EventListener](https://www.bitdegree.org/learn/javascript-event-listener/)
+- [How to handle event handling in JavaScript (examples and all)](https://medium.freecodecamp.org/event-handling-in-javascript-with-examples-f6bc1e2fff57)
 - [Javascript.info - Introduction into Events](https://javascript.info/events)
 - [JavaScript | addEventListener() with Examples](https://www.geeksforgeeks.org/javascript-addeventlistener-with-examples/)
 - [addEventListener method](http://help.dottoro.com/ljeuqqoq.php)
