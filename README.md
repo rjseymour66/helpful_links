@@ -3,6 +3,8 @@
 ## REST API
 
 - [What is REST](https://restfulapi.net/)
+- [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+-
 - [Creating a RESTful API using Node.js](https://itnext.io/creating-a-restful-api-using-node-js-256c22c47e0b)
 - [Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 - [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
@@ -14,6 +16,10 @@
 - [Scotch.io - Build a RESTful API Using Node and Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 - [Scotch.io - Get Started with Creating a RESTful API Endpoints in NodeJS and ExpressJS](https://scotch.io/@gilles/get-started-with-creating-a-restful-api-endpoints-in-nodejs-and-expressjs)
 - [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
+- [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+
+## SDK
+
 - [Creating a SDK from scratch](https://medium.com/bynder-tech/creating-a-sdk-from-scratch-2809ded9fa8a)
 
 ## Fetch tutorials
