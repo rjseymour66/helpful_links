@@ -19,12 +19,42 @@
 - [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 - [Node.js, Express.js, Sequelize.js and PostgreSQL RESTful API](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
 
+## MongoDB
+
+- [Node.js MongoDB Tutorial with Examples](https://www.guru99.com/node-js-mongodb.html)
+- [Writing a CRUD app with Node.js and MongoDB](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
+- [Build a Simple Beginner App with Node, Bootstrap & MongoDB](https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/)
+- [Node.js Mongoose Tutorial](https://www.tutorialkart.com/nodejs/mongoose/)
+- [Building a Node.js Powered API with Express, Mongoose & MongoDB](https://getstream.io/blog/building-a-node-js-powered-api-with-express-mongoose-mongodb/)
+- [Install MongoDB With Compass On Windows | Mongoose Validation Examples Mongoose Crud Tutorial](https://vegibit.com/mongoose-crud-tutorial/)
+- [Mongoose Introduction](http://tutorialtous.com/mongoose/)
+- [Simple example - Node.js, Restify, MongoDb and Mongoose](https://cdnjs.com/libraries/backbone.js/tutorials/nodejs-restify-mongodb-mongoose)
+
+
 ## Postgres
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/index.htm)
 - [PostgreSQL and NodeJS](https://mherman.org/blog/postgresql-and-nodejs/)
 - [Getting Started with Node, Express and Postgres Using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
 - [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
 - [PostgreSQL NodeJS Tutorial](https://linuxhint.com/postgresql-nodejs-tutorial/)
 - [Setup PostgreSQL with Sequelize in Express Tutorial](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
+
+## MySQL
+
+- [MySQL Tutorial](https://www.tutorialspoint.com/mysql/)
+- [MySQL Tutorial](http://www.mysqltutorial.org/)
+- [MySQL Tutorial for Beginners Learn in 7 Days](https://www.guru99.com/mysql-tutorial.html)
+- [MySQL Tutorial](https://www.quackit.com/mysql/tutorial/)
+- [TechOnTheNet MySQL Tutorial](https://www.techonthenet.com/mysql/index.php)
+- [Using MySQL with Node.js and the mysql JavaScript Client](https://www.sitepoint.com/using-node-mysql-javascript-client/)
+- [MySQL Node.js](http://www.mysqltutorial.org/mysql-nodejs/)
+- [Code for Geek Node.js and MySQL tutorial](https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/)
+- [Build a simple app using Node JS and MySQL.](https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)
+- [Tutorial: Setting up Node.js with a database](https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f)
+- [Getting Started with Node.js + MySQL](https://www.codementor.io/codeforgeek/node-js-mysql-8b5nh45r9)
+- []()
+- []()
 
 ## SDK
 
