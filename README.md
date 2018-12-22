@@ -10,7 +10,7 @@
 - [Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 - [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
 - [Building REST APIs using NodeJS](https://medium.com/@onejohi/building-rest-apis-using-nodejs-d5f7a666353a)
-- [Build a RESTful API with Node.js and Express.Js Part One - NOT COMPLETE. ON PART III. Stuck on node_modules/.bin/sequelize db:migrate step](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
+- [Build a RESTful API with Node.js and Express.Js Part One - NOT COMPLETE. At 'Create Todo', after migration. Instructions are bad. step](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
 - [5 Steps to build a REST API in Node.js with MongoDB](https://medium.com/of-all-things-tech-progress/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 - [Node.js RESTful API - Tutorials Point](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
 - [Building a Node.js REST API with Express](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
