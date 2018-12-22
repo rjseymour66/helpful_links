@@ -53,8 +53,7 @@
 - [Build a simple app using Node JS and MySQL.](https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)
 - [Tutorial: Setting up Node.js with a database](https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f)
 - [Getting Started with Node.js + MySQL](https://www.codementor.io/codeforgeek/node-js-mysql-8b5nh45r9)
-- []()
-- []()
+
 
 ## SDK
 
