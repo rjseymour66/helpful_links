@@ -7,7 +7,7 @@
 - [Creating a Secure REST API in Node.js](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
 - [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
 - [Building REST APIs using NodeJS](https://medium.com/@onejohi/building-rest-apis-using-nodejs-d5f7a666353a)
-- [Build a RESTful API with Node.js and Express.Js Part One](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
+- [Build a RESTful API with Node.js and Express.Js Part One - NOT COMPLETE. ON PART III. Stuck on node_modules/.bin/sequelize db:migrate step](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
 - [5 Steps to build a REST API in Node.js with MongoDB](https://medium.com/of-all-things-tech-progress/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 - [Node.js RESTful API - Tutorials Point](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
 - [Building a Node.js REST API with Express](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
@@ -16,6 +16,8 @@
 - [Scotch.io - Get Started with Creating a RESTful API Endpoints in NodeJS and ExpressJS](https://scotch.io/@gilles/get-started-with-creating-a-restful-api-endpoints-in-nodejs-and-expressjs)
 - [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
 - [Building a Simple CRUD Application with Express and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+- [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
+- [Node.js, Express.js, Sequelize.js and PostgreSQL RESTful API](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
 
 ## SDK
 
@@ -156,6 +158,27 @@
 - [GraphQL API with AWS and Use with React](https://scotch.io/tutorials/graphql-api-with-aws-and-use-with-react)
 - [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 
+## Mocha and Chai
+- [JavaScript — Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
+- [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d)
+- [Online Test Suite](https://www.chaijs.com/api/test/)
+- [Testing Node.js with Mocha and Chai](https://mherman.org/blog/testing-node-js-with-mocha-and-chai/)
+- [Unit Test Your JavaScript Using Mocha and Chai](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
+- [Basics intro to testing React components with Mocha, Chai, Enzyme, and Sinon](https://medium.com/@houstoncbreedlove/basics-intro-to-testing-react-components-with-mocha-chai-enzyme-and-sinon-c8b82ce58df8)
+- [Behaviour Driven Testing in node.js using MOCHA & CHAI](https://medium.com/@connecttokc/behaviour-driven-testing-in-node-js-using-mocha-chai-5e0c85258bbe)
+- [Tasty Testing with Mocha and Chai ](https://dev.to/basedenergy/tasty-testing-with-mocha-and-chai--51ek)
+- [Introduction to Testing with Mocha and Chai](https://www.codecademy.com/articles/bapi-testing-intro)
+
+## Postgres
+- [PostgreSQL and NodeJS](https://mherman.org/blog/postgresql-and-nodejs/)
+- [Getting Started with Node, Express and Postgres Using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
+- [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
+- [PostgreSQL NodeJS Tutorial](https://linuxhint.com/postgresql-nodejs-tutorial/)
+- [Setup PostgreSQL with Sequelize in Express Tutorial](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
+- []()
+- []()
+- []()
+- []()
 
 ## CSS
 - [CSS Tutorial](https://www.quackit.com/css/tutorial/)
