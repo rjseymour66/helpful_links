@@ -19,6 +19,13 @@
 - [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 - [Node.js, Express.js, Sequelize.js and PostgreSQL RESTful API](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
 
+## Postgres
+- [PostgreSQL and NodeJS](https://mherman.org/blog/postgresql-and-nodejs/)
+- [Getting Started with Node, Express and Postgres Using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
+- [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
+- [PostgreSQL NodeJS Tutorial](https://linuxhint.com/postgresql-nodejs-tutorial/)
+- [Setup PostgreSQL with Sequelize in Express Tutorial](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
+
 ## SDK
 
 - [Creating a SDK from scratch](https://medium.com/bynder-tech/creating-a-sdk-from-scratch-2809ded9fa8a)
@@ -168,17 +175,6 @@
 - [Behaviour Driven Testing in node.js using MOCHA & CHAI](https://medium.com/@connecttokc/behaviour-driven-testing-in-node-js-using-mocha-chai-5e0c85258bbe)
 - [Tasty Testing with Mocha and Chai ](https://dev.to/basedenergy/tasty-testing-with-mocha-and-chai--51ek)
 - [Introduction to Testing with Mocha and Chai](https://www.codecademy.com/articles/bapi-testing-intro)
-
-## Postgres
-- [PostgreSQL and NodeJS](https://mherman.org/blog/postgresql-and-nodejs/)
-- [Getting Started with Node, Express and Postgres Using Sequelize](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
-- [Building a simple API with Nodejs, Expressjs and PostgreSQL DB - 2](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7)
-- [PostgreSQL NodeJS Tutorial](https://linuxhint.com/postgresql-nodejs-tutorial/)
-- [Setup PostgreSQL with Sequelize in Express Tutorial](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
-- []()
-- []()
-- []()
-- []()
 
 ## CSS
 - [CSS Tutorial](https://www.quackit.com/css/tutorial/)
