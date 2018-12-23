@@ -42,6 +42,10 @@
 - [Install MongoDB With Compass On Windows | Mongoose Validation Examples Mongoose Crud Tutorial](https://vegibit.com/mongoose-crud-tutorial/)
 - [Mongoose Introduction](http://tutorialtous.com/mongoose/)
 - [Simple example - Node.js, Restify, MongoDb and Mongoose](https://cdnjs.com/libraries/backbone.js/tutorials/nodejs-restify-mongodb-mongoose)
+- [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](https://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/)
+- [Node.Js Express MongoDB Tutorial](https://appdividend.com/2017/06/18/node-js-express-tutorial/)
+- [Building a RESTful API with Express and MongoDB](https://dev.to/aurelkurtula/building-a-restful-api-with-express-and-mongodb--3mmh)
+- [RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
 ## MVC (Model-View-Controller)
 - [How to Build and Structure a Node.js MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
