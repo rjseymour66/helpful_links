@@ -36,7 +36,7 @@
 
 ## MongoDB
 
--[An Introduction to MongoDB](https://scotch.io/tutorials/an-introduction-to-mongodb)
+- [An Introduction to MongoDB](https://scotch.io/tutorials/an-introduction-to-mongodb)
 - [Easily Develop Node.js and MongoDB Apps with Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
 - [Use MongoDB with a Node.js Application on Heroku]()
 - [Node.js MongoDB Tutorial with Examples](https://www.guru99.com/node-js-mongodb.html)
