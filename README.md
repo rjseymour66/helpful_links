@@ -209,6 +209,7 @@
 - [Authenticating a GraphQL API with AWS](https://scotch.io/tutorials/authenticating-a-graphql-api-with-aws)
 - [GraphQL API with AWS and Use with React](https://scotch.io/tutorials/graphql-api-with-aws-and-use-with-react)
 - [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [Build Simple Authentication in Express in 15 Minutes](https://scotch.io/tutorials/build-simple-authentication-in-express-in-15-minutes)
 
 ## Mocha and Chai
 - [JavaScript — Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
