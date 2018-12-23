@@ -14,7 +14,7 @@
 - [5 Steps to build a REST API in Node.js with MongoDB](https://medium.com/of-all-things-tech-progress/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 - [Node.js RESTful API - Tutorials Point](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
 - [Building a Node.js REST API with Express](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6) - DO THIS ONE. Postgres
-- [Building a RESTful CRUD API with Node.js, Express, and MongoDB](https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/)
+- [Building a RESTful CRUD API with Node.js, Express, and MongoDB](https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/) - STUCK. Need to fix folder structure and routes.
 - [Scotch.io - Build a RESTful API Using Node and Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 - [Scotch.io - Get Started with Creating a RESTful API Endpoints in NodeJS and ExpressJS](https://scotch.io/@gilles/get-started-with-creating-a-restful-api-endpoints-in-nodejs-and-expressjs)
 - [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
