@@ -3,8 +3,8 @@
 
 # Outline
 1. Define Node packages
-  i. Express
-  ii. Mongoose/Postgres
+  - Express
+  - Mongoose/Postgres
 2. Start server using Express
 3. Define our model
 4. Declare our routes using Express
