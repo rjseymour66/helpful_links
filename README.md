@@ -1,5 +1,7 @@
 # Setup
 - [PostgreSQL setup](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
+- [Seed dB](https://scotch.io/courses/create-a-crud-app-with-node-and-mongodb/seeding-database)
+
 
 # CRUD Outline
 - Define Node packages
