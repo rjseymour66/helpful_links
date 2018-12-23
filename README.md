@@ -6,6 +6,7 @@
   - Express
   - Mongoose/Postgres
 - Start server using Express
+- Connect dB
 - Define model
 - Declare routes using Express
 - Test the API in Postman
