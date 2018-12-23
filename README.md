@@ -2,13 +2,13 @@
 - [PostgreSQL setup](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 
 # Outline
-- Define our Node packages
+1. Define Node packages
   - Express
   - Mongoose/Postgres
-- Start server using Express
-- Define our model
-- Declare our routes using Express
-- Test our API.
+2. Start server using Express
+3. Define our model
+4. Declare our routes using Express
+5. Test our API.
 
 # Checklist
 
