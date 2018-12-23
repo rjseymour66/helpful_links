@@ -48,6 +48,7 @@
 - [RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
 ## MVC (Model-View-Controller)
+- [Best practices for Express app structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
 - [How to Build and Structure a Node.js MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
 - [Build a Complete MVC Website With ExpressJS](https://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 - [Simple and Minimalist MVC Architecture Pattern for Node & Express](https://medium.com/@TaylorAckley/simple-and-minimalist-mvc-architecture-pattern-for-node-express-cb542287a144)
