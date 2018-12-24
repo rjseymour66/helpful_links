@@ -14,6 +14,7 @@
 - Test the API in Postman
 
 ## MongodB
+- dB is stored in `/data/db`
 - **mongod** to start server
 - **mongo** in another tab to access the server
 
