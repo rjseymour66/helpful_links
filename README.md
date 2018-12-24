@@ -14,8 +14,8 @@
 - Test the API in Postman
 
 ## MongodB
-- mongod to start server
-- mongo in another tab to access the server
+- **mongod** to start server
+- **mongo** in another tab to access the server
 
 # Checklist
 
