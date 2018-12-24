@@ -13,6 +13,10 @@
 - Declare routes using Express
 - Test the API in Postman
 
+## MongodB
+- mongod to start server
+- mongo in another tab to access the server
+
 # Checklist
 
 ## REST API
@@ -134,6 +138,8 @@
 - [Learn React - Full Course for Beginners](https://www.freecodecamp.org/news/beaucarnes/learn-react-course--jiLKNpplm)
 - [Start Learning React](https://egghead.io/courses/start-learning-react)
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+- [Getting Started with React – An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
+- [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
 
 ## App Tutorials/Mini-Projects
 
