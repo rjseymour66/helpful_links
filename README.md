@@ -19,8 +19,9 @@
 | Command | Action                       |
 | --------|:----------------------------:|
 | `mongod`| Start server                 |
-| `mongo` | Access server in another tab |
-
+| `mongo` | Access mongo console in another tab |
+| Ctrl + c | Quit mongo console |
+| `exit` | Quit mongo console |
 
 
 # Checklist
