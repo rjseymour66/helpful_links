@@ -15,8 +15,13 @@
 
 ## MongodB
 - dB is stored in `/data/db`
-- **mongod** to start server
-- **mongo** in another tab to access the server
+
+| Command | Action                       |
+| --------|:----------------------------:|
+| `mongod`| Start server                 |
+| `mongo` | Access server in another tab |
+
+
 
 # Checklist
 
