@@ -129,6 +129,13 @@
 - [UNDERSTANDING THE FETCH API](https://flaviocopes.com/fetch-api/)
 - [Introduction to the Fetch API](https://www.sitepoint.com/introduction-to-the-fetch-api/)
 
+## AJAX
+- [AJAX Tutorial](https://www.tutorialspoint.com/ajax/)
+- [Ajax Tutorial](https://www.xul.fr/en-xml-ajax.html)
+- [Understanding AJAX as a Beginner Web Developer](https://www.codementor.io/sheena/ajax-tutorial-web-development-du107rzaq)
+- [AJAX Tutorial](https://www.quackit.com/ajax/tutorial/)
+- [AJAX Tutorial](https://www.javatpoint.com/ajax-tutorial)
+
 ## React
 
 - [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
