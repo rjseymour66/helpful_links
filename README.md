@@ -233,6 +233,11 @@
 - [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 - [Build Simple Authentication in Express in 15 Minutes](https://scotch.io/tutorials/build-simple-authentication-in-express-in-15-minutes)
 
+## Debug in Chrome
+- [Debugging in Chrome](https://javascript.info/debugging-chrome)
+- [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+- [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
+- [Debugging JavaScript in Google Chrome and Visual Studio Code](https://scotch.io/tutorials/debugging-javascript-in-google-chrome-and-visual-studio-code)
 
 ## Mocha and Chai
 - [JavaScript — Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
