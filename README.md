@@ -91,6 +91,17 @@
 - [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
 - [Build a GraphQL server with Node.js](https://www.apollographql.com/docs/apollo-server/v1/)
 
+## Authentication
+- [How to Build a RESTful API with Authentication in 5 minutes — all from your command line](https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca)
+- [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
+- [Build a Simple REST API with Node and OAuth 2.0](https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node)
+- [NodeJS - Basic Authentication Tutorial with Example API](http://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api)
+- [A guide for adding JWT token based authentication to your single page NodeJS applications](https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4)
+- [Securing your Node js api with JSON Web Token](https://dev.to/medaymentn/securing-your-node-js-api-with-json-web-token-5o5)
+- [express-basic-auth](https://www.npmjs.com/package/express-basic-auth)
+- [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
+
+
 ## Postgres
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/index.htm)
