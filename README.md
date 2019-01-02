@@ -125,6 +125,14 @@
 - [Tutorial: Setting up Node.js with a database](https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f)
 - [Getting Started with Node.js + MySQL](https://www.codementor.io/codeforgeek/node-js-mysql-8b5nh45r9)
 
+## Pug
+- [Pug Tutorial Series](https://www.nodejsera.com/library/pug/pug-introduction.html)
+- [Pug.js to make your life easier with HTML templates](https://itnext.io/pug-js-to-make-your-life-easier-with-html-templates-9c62273626e0)
+- [Getting started with Pug template engine](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
+
+## MERN
+- [React CRUD Example | MERN Stack Tutorial](https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/)
+- [An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)
 
 ## SDK
 
@@ -165,6 +173,7 @@
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [Getting Started with React – An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
 - [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+- [Getting started on building a personal website/webapp with React](https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710)
 
 ## App Tutorials/Mini-Projects
 
