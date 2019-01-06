@@ -92,6 +92,7 @@
 - [Build a GraphQL server with Node.js](https://www.apollographql.com/docs/apollo-server/v1/)
 
 ## Authentication
+- [API Authentication with JSON Web Tokens and Passport](https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport)
 - [How to Build a RESTful API with Authentication in 5 minutes — all from your command line](https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca)
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
 - [Build a Simple REST API with Node and OAuth 2.0](https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node)
