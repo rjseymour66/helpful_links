@@ -29,6 +29,8 @@
 | `exit` | Quit mongo console |
 
 
+- [JSON webtoken](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
+
 # Checklist
 
 ## REST API
